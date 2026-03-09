@@ -1,2 +1,0 @@
-# pagina
-Pagina de ventas 
